@@ -14,4 +14,4 @@ The dataset used for this project is hosted on OneDrive in the folder named `Wat
 
 ### Download Instructions
 
-You can manually download the dataset by visiting the link above and clicking on the download button. 
+You can manually download the dataset by visiting the link above and clicking on the download button. You will find the file dataset.npz. This file contains the dataset split into training, validation, and test sets. To load the dataset in your Python script, utilize the code provided in Load.py, where you can also discern the structure of the file.
